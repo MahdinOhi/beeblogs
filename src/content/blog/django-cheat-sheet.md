@@ -8,6 +8,7 @@ draft: false
 tags:
   - django
   - web dev
+  - cheatsheet
 description: A cheat-sheet for creating web apps with the Django framework using the Python language. Most of the summaries and examples are based on [the official documentation](https://docs.djangoproject.com/en/2.0/) for Django.
 ---
 
