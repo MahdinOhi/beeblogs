@@ -14,7 +14,6 @@ description: This Java cheatsheet offers a quick reference to essential syntax a
 
 ### Comprehensive Notes on Object-Oriented Programming (OOP) in Java
 
----
 
 #### **1. Introduction to OOP**
 
