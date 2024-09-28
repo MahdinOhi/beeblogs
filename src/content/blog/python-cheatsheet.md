@@ -1,7 +1,7 @@
 ---
 title: Python Cheatsheet
 author: Mahdin Ohi
-pubDatetime: 2024-09-24T08:00:00
+pubDatetime: 2024-09-24T09:00:00
 slug: python-cheatsheet
 featured: false
 draft: false
