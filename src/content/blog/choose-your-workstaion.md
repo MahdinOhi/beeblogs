@@ -1,7 +1,7 @@
 ---
 title: Choose Yours Workstation
 author: Mahdin Ohi
-pubDatetime: 2024-10-4T08:00:00
+pubDatetime: 2024-10-3T08:00:00
 slug: choose-your-workstation
 featured: false
 draft: false
