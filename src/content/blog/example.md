@@ -1,7 +1,7 @@
 ---
-title: Understanding Data Structures Through Real-World Applications
+title: example
 author: Mahdin Ohi
-pubDatetime: 2025-03-08T12:00:00Z
+pubDatetime: 2025-03-10T12:00:00Z
 slug: dsa-real-world-applications
 featured: false
 draft: false
